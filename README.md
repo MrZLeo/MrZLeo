@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MrzLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzleo&count_private=true&show_icons=true&theme=tokyonight)
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=mrzleo&theme=tokyonight&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzleo&theme=vue-dark&layout=compact">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzleo&repo=my-now-blog&theme=dark">
