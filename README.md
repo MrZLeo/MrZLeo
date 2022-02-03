@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am a student who enjoy system programming.
 
-I’m currently working on **Orca**, a operating system based on risc-v ISA. Firstly it will be able to run in qemu.
+I’m currently working on **Orca**, a operating system based on **risc-v** ISA & **Rust**. Firstly it will be able to run in qemu.
 
 <!--
 **MrZLeo/MrZLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzleo&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![MrzLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzleo&theme=tokyonight&count_private=true&show_icons=true)
