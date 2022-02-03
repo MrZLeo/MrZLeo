@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="right" src="https://github.com/MrZLeo/MrZLeo/Operating-System.jpg?template=terminal" />
+  <img align="right" src="https://github.com/MrZLeo/MrZLeo/blob/main/Operating-System.jpg?template=terminal" />
 </a>
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=mrzleo&theme=tokyonight&count_private=true&show_icons=true">
