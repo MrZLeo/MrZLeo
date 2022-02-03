@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="#">
+  <img align="right" src="https://github.com/MrZLeo/MrZLeo/Operating-System.jpg?template=terminal" />
+</a>
+
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=mrzleo&theme=tokyonight&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzleo&theme=vue-dark&layout=compact">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=mrzleo&repo=orca&theme=dark">
