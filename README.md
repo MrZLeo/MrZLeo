@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am a student who enjoy system programming.
 
-I’m currently working on **Orca**, a operating system based on **risc-v** ISA & **Rust**. Firstly it will be able to run in qemu.
+I’m currently working on operating system and  serverless computing. Nice to meet U! :)
 
 <!--
 **MrZLeo/MrZLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
